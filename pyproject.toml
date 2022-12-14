@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "Proyecto_Divisas_Python"
+name = "Paquete_Divisas_Python"
 version = "0.0.1"
 authors = [
     { name="Javier Cuesta Domingo", email="javiercuesta660@gmail.com" },
