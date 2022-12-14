@@ -6,7 +6,7 @@ build-backend = "hatchling.build"
 name = "Paquete_Divisas_Python"
 version = "0.0.1"
 authors = [
-    { name="Javier Cuesta Domingo", email="javiercuesta660@gmail.com" },
+    { name="javiercuesta", email="javiercuesta660@gmail.com" },
 ]
 description = "Proyecto para graficar pares de divisas de forma sencilla"
 readme = "README.md"
